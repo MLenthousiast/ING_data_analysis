@@ -1,0 +1,10 @@
+# Omit hidden files.
+.*
+# Except this file.
+!.gitignore
+
+# Omit temporary files.
+*~
+
+# Omit data files.
+*.csv 
